@@ -1,1 +1,1 @@
-Project that scrapes MLB API endpoint to calculate Pick the Stick values (TB + BB + SB) - 0.5(AB-Hits+CS)
+Project that makes a request to an MLB endpoint for player data and calculates their Pick the Stick points ([TB+BB+SB] - 0.5[AB-H+CS]).  <br /> This data is then displayed in a Flask web app hosted by Google App Engine.
